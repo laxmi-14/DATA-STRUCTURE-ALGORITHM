@@ -1,6 +1,3 @@
-/**
- * printReverse
- */
 import java.util.ArrayList;
 public class printReverse {
 
